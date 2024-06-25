@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leo Beuque</h1>
 <h3 align="center">A passionate IT Engineer from France</h3>
 
-- 🌱 I’m currently learning **Advanced algorithms and data structures**
+- 🌱 I’m currently learning **Advanced algorithms and data structures, C++**
 
 - 💬 Ask me about **Python, ML**
 
