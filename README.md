@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Advanced algorithms and data structures, Data Engineering tools
 
-- 💬 Ask me about **Python, ML**
+- 💬 Ask me about **Python, ML, SQL**
 
 - 📫 How to reach me **leo.beuque@gmail.com**
 
